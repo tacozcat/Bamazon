@@ -1,0 +1,3 @@
+USE bamazon;
+INSERT INTO products(product_name, department_name, price, stock_quantity)
+VALUES ("French Press Coffee Maker", "Kitchen", 27.99, 46),("Retro Sunglasses", "Clothing", 26.50, 28),("Cat-Logo Sweatshirt", "Clothing", 19.87, 39),("Silicone Spatula", "Kitchen", 9.25, 88),("HDMI Cable", "Electronics", 7.45, 92),("Noise-Cancelling Headphones", "Electronics", 249.50, 32),("Ergonomic Desk Chair", "Home", 66.60, 42),("Poker Table", "Home", 178.00, 26),("Exercise Ball", "Sports", 4.95, 93),("Trampoline", "Sports", 212.25, 56);
